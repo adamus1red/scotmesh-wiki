@@ -2,7 +2,7 @@
 title: MeshCore
 description: Introduction to MeshCore in the Scottish Mesh community.
 published: true
-date: 2026-06-01T14:46:55.434Z
+date: 2026-06-18T15:04:46.209Z
 tags: meshcore, scotland
 editor: markdown
 dateCreated: 2026-04-24T13:26:05.328Z
@@ -12,7 +12,7 @@ dateCreated: 2026-04-24T13:26:05.328Z
 
 ScotMesh has both Meshtastic and  MeshCore — radio messaging systems for small LoRa devices. It lets people send short messages across a volunteer-run network without needing mobile coverage, Wi-Fi, or the internet. Carry a small companion node in your pocket, connect it to your phone, and you're on the mesh.
 
-# The remainder of this dsocument focuses on Meshcore.
+# The remainder of this document focuses on Meshcore.
 
 ## 💡 Key ideas
 
