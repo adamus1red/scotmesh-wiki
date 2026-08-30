@@ -1,8 +1,8 @@
 ---
 title: TX Delay and Flood Propagation on ScotMesh
-description: 
+description: Explains ho TX delay can help avoid  'round the houses' paths
 published: true
-date: 2026-08-30T18:01:48.629Z
+date: 2026-08-30T18:04:01.111Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-30T18:01:48.629Z
